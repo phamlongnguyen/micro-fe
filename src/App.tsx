@@ -1,4 +1,3 @@
-import React from 'react'
 // import ViteLogo from '@assets/react.svg?react'
 import './App.css'
 import { RouterProvider } from 'react-router-dom'
