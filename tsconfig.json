@@ -23,6 +23,7 @@
     "baseUrl": "./src",
     "paths": {
       "@ui/*": ["./components/common/ui/*"],
+      "@layout/*": ["./components/layout/*"],
       "@pages/*": ["./pages/*"],
       "@hooks/*": ["./hooks/*"],
       "@api/*": ["./api/*"],
